@@ -1,0 +1,30 @@
+{
+  "environment": "production",
+  "repo": {
+    "user": "somiibo",
+    "name": "productivitybrowser-website"
+  },
+  "npm-build": {
+    "timestamp_utc": "2023-05-01T00:38:29Z",
+    "timestamp_pst": "2023-04-30T17:38:29Z"
+  },
+  "gh-pages-push": {
+    "timestamp_utc": "2023-05-01T00:38:29Z",
+    "timestamp_pst": "2023-04-30T17:38:29Z"
+  },
+  "packages": {
+    "web-manager": "3.1.36"
+  },
+  "brand": {
+    "name": "Productivity Browser",
+    "type": "Corporation",
+    "description": "Productivity Browser is built for productive working and multi-account sign-in!",
+    "logo-image": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-black-1024x1024.png",
+    "logo-image-svg": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg",
+    "address-locality": "Los Angeles",
+    "address-country": "United States"
+  },
+  "admin-dashboard": {
+    "pages": []
+  }
+}
